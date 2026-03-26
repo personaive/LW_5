@@ -1,8 +1,6 @@
 % -*- mode: prolog -*-
 :- encoding(utf8).
 
-:- encoding(utf8).
-
 digits_count(N, 1) :- N < 10, !.
 digits_count(N, Count) :-
     N1 is N // 10,
