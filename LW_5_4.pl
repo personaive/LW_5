@@ -11,5 +11,4 @@ go :-
     format('Лена гуляла с ~w~n', [LenaAnimal]),
     format('Таня гуляла с ~w~n', [TanyaAnimal]).
 
-% Вызов go 
 :- go.
