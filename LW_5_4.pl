@@ -1,4 +1,5 @@
 :- encoding(utf8).
+% -*- mode: prolog -*-
 
 go :-
     Animals = [dog, cat, hamster],
