@@ -1,4 +1,5 @@
 :- encoding(utf8).
+% -*- mode: prolog -*-
 
 % найти минимум
 min_elem([X], X).
