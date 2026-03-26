@@ -50,10 +50,11 @@
 
 20\. Автоматически запускаем go при загрузке файла.
 
-Тестирование
+### Тестирование
+<img width="424" height="70" alt="Image" src="https://github.com/user-attachments/assets/478d0025-9f73-43a5-af38-78dece17ac56" />
+<img width="385" height="76" alt="Image" src="https://github.com/user-attachments/assets/5a164133-7d40-4ec0-8521-7b248f07137f" />
 
-Задание 2
----
+# Задание 2
 
 ## Задача 11
 
@@ -113,10 +114,11 @@
 
 24\. Автоматически запускаем go при загрузке файла.
 
-Тестирование
+### Тестирование
+<img width="612" height="39" alt="Image" src="https://github.com/user-attachments/assets/b4b73e1e-e524-4a2b-b98a-db12e480e0b4" />
+<img width="505" height="33" alt="Image" src="https://github.com/user-attachments/assets/7ec72e8e-2af1-483a-a78e-9dc5b311d183" />
 
-Задание 3
----
+# Задание 3
 
 ## Задача 11
 
@@ -164,10 +166,11 @@
 
 19\. Автоматически запускаем go при загрузке файла.
 
-Тестирование
+### Тестирование
+<img width="490" height="37" alt="Image" src="https://github.com/user-attachments/assets/d45f23cf-beac-405d-92ce-34c2454711a1" />
+<img width="460" height="37" alt="Image" src="https://github.com/user-attachments/assets/365e666e-79c4-4f25-8bf5-cd36cbf693f3" />
 
-Задание 4
----
+# Задание 4
 
 ## Задача 11
 
@@ -208,4 +211,4 @@
 12\. Автоматически запускаем go при загрузке файла с помощью :- go.
 
 ### Тестирование
-
+<img width="359" height="57" alt="Image" src="https://github.com/user-attachments/assets/c8353d2b-9c3a-42c9-a726-95fe5bd9e94d" />
